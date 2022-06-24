@@ -5,6 +5,8 @@
         <title>Aula11</title>
     </head>
     <body>
+
+      <?php  phpinfo()?>
         <pre>
             <?php
             require_once 'Aluno.php';
